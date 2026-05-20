@@ -1,4 +1,4 @@
-### **Guilherme** 👨‍💻
+## **Guilherme** 👨‍💻
 **Python Developer | Linux Enthusiast | Open Source Contributor**
 ---
 > "For the Lord gives wisdom; from his mouth come knowledge and understanding." — Proverbs 2:6
