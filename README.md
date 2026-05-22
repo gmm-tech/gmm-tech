@@ -6,4 +6,6 @@
 ### About Me ✌️
 I am a Python developer with a passion for solving complex problems, automating tasks, and actively contributing to open-source projects. 
 
-You can connect with me on [Discord](https://discord.com/users/1007794196872183941). We can converse in English and Portuguese.
+You can connect with me on [Discord](https://discord.com/users/1007794196872183941). 
+
+<small>We can converse in English and Portuguese.</small>
