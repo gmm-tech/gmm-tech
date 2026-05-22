@@ -1,7 +1,7 @@
 ## **Guilherme** 👨‍💻
 **Python Developer | Linux Enthusiast | Open Source Contributor**
 ---
-> "For the Lord gives wisdom; from his mouth come knowledge and understanding." — Proverbs 2:6
+>"And whatsoever ye do, do it heartily, as to the Lord, and not unto men;" Colossians 3:23
 ---
 ### About Me ✌️
 I am a Python developer with a passion for solving complex problems, automating tasks, and actively contributing to open-source projects. 
