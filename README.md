@@ -8,4 +8,4 @@ I am a Python developer with a passion for solving complex problems, automating 
 
 You can connect with me on [Discord](https://discord.com/users/1007794196872183941). 
 
-<small>We can converse in English and Portuguese.</small>
+ <small>We can converse in English and Portuguese.</small>
