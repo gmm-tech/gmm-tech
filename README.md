@@ -1,5 +1,5 @@
 ## **Guilherme** 👨‍💻
-*Python Developer | Linux Enthusiast | Open Source Contributor*
+<sub>**Python Developer | Linux Enthusiast | Open Source Contributor**</sub>
 ### About Me ✌️
 I am a Python developer with a passion for solving complex problems, automating tasks, and actively contributing to open-source projects.
 
