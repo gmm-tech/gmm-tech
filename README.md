@@ -1,6 +1,6 @@
 ## **Guilherme** 👨‍💻
-<sub>**Python Developer | Linux Enthusiast | Open Source Contributor**</sub> <sub>*Colossians 3:23*</sub>
-### About Me ✌️
+<sub>**Python Developer | Linux Enthusiast | Open Source Contributor**
+### About Me ✌️ </sub> <sub>*Colossians 3:23*</sub>
 I am a Python developer with a passion for solving complex problems, automating tasks, and actively contributing to open-source projects.
 
 
